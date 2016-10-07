@@ -1,0 +1,6 @@
+C:\test\디자인패턴공부\디자인패턴공부-프로토타입패턴\obj\Debug\디자인패턴공부-프로토타입패턴.csprojResolveAssemblyReference.cache
+C:\test\디자인패턴공부\디자인패턴공부-프로토타입패턴\bin\Debug\디자인패턴공부-프로토타입패턴.exe.config
+C:\test\디자인패턴공부\디자인패턴공부-프로토타입패턴\bin\Debug\디자인패턴공부-프로토타입패턴.exe
+C:\test\디자인패턴공부\디자인패턴공부-프로토타입패턴\bin\Debug\디자인패턴공부-프로토타입패턴.pdb
+C:\test\디자인패턴공부\디자인패턴공부-프로토타입패턴\obj\Debug\디자인패턴공부-프로토타입패턴.exe
+C:\test\디자인패턴공부\디자인패턴공부-프로토타입패턴\obj\Debug\디자인패턴공부-프로토타입패턴.pdb
