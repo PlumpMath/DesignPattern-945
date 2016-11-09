@@ -4,3 +4,9 @@ C:\test\디자인패턴공부-빌더패턴\이것저것테스트\bin\Debug\이�
 C:\test\디자인패턴공부-빌더패턴\이것저것테스트\obj\Debug\이것저것테스트.csprojResolveAssemblyReference.cache
 C:\test\디자인패턴공부-빌더패턴\이것저것테스트\obj\Debug\이것저것테스트.exe
 C:\test\디자인패턴공부-빌더패턴\이것저것테스트\obj\Debug\이것저것테스트.pdb
+C:\Users\KoEunHye\Documents\DesignPattern\이것저것테스트\bin\Debug\이것저것테스트.exe.config
+C:\Users\KoEunHye\Documents\DesignPattern\이것저것테스트\bin\Debug\이것저것테스트.exe
+C:\Users\KoEunHye\Documents\DesignPattern\이것저것테스트\bin\Debug\이것저것테스트.pdb
+C:\Users\KoEunHye\Documents\DesignPattern\이것저것테스트\obj\Debug\이것저것테스트.csprojResolveAssemblyReference.cache
+C:\Users\KoEunHye\Documents\DesignPattern\이것저것테스트\obj\Debug\이것저것테스트.exe
+C:\Users\KoEunHye\Documents\DesignPattern\이것저것테스트\obj\Debug\이것저것테스트.pdb
