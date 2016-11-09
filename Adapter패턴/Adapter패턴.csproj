@@ -12,6 +12,7 @@
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>게시\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -24,7 +25,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -58,11 +58,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="상속\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="강화된프린터.cs" />
-    <Compile Include="프린터.cs" />
-    <Compile Include="프린터강화.cs" />
+    <Compile Include="상속\강화된프린터.cs" />
+    <Compile Include="상속\프린터.cs" />
+    <Compile Include="상속\프린터강화.cs" />
+    <Compile Include="위임\Program.cs" />
+    <Compile Include="위임\강화된프린터.cs" />
+    <Compile Include="위임\프린터.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
