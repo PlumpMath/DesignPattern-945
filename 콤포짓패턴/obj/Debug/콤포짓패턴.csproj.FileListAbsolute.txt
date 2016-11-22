@@ -1,0 +1,6 @@
+C:\Users\KoEunHye\Documents\DesignPattern\콤포짓패턴\bin\Debug\콤포짓패턴.exe.config
+C:\Users\KoEunHye\Documents\DesignPattern\콤포짓패턴\bin\Debug\콤포짓패턴.exe
+C:\Users\KoEunHye\Documents\DesignPattern\콤포짓패턴\bin\Debug\콤포짓패턴.pdb
+C:\Users\KoEunHye\Documents\DesignPattern\콤포짓패턴\obj\Debug\콤포짓패턴.csprojResolveAssemblyReference.cache
+C:\Users\KoEunHye\Documents\DesignPattern\콤포짓패턴\obj\Debug\콤포짓패턴.exe
+C:\Users\KoEunHye\Documents\DesignPattern\콤포짓패턴\obj\Debug\콤포짓패턴.pdb

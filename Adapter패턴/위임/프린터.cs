@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Adapter패턴.위임
 {
-    class 프린터
+    class 프린터 : 강화된프린터
     {
         private string 내용;
         public 프린터()
