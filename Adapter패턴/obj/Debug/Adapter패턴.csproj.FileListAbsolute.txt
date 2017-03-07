@@ -4,3 +4,6 @@ C:\Users\KoEunHye\Documents\DesignPattern\Adapter패턴\bin\Debug\Adapter패턴.
 C:\Users\KoEunHye\Documents\DesignPattern\Adapter패턴\obj\Debug\Adapter패턴.exe
 C:\Users\KoEunHye\Documents\DesignPattern\Adapter패턴\obj\Debug\Adapter패턴.pdb
 C:\Users\KoEunHye\Documents\DesignPattern\Adapter패턴\obj\Debug\Adapter패턴.csprojResolveAssemblyReference.cache
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\Adapter패턴\obj\Debug\Adapter패턴.csprojResolveAssemblyReference.cache
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\Adapter패턴\obj\Debug\Adapter패턴.exe
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\Adapter패턴\obj\Debug\Adapter패턴.pdb

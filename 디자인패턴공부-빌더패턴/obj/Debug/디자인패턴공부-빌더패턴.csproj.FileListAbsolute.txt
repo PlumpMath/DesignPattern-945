@@ -10,3 +10,9 @@ C:\Users\KoEunHye\Documents\DesignPattern\디자인패턴공부-빌더패턴\bin
 C:\Users\KoEunHye\Documents\DesignPattern\디자인패턴공부-빌더패턴\obj\Debug\디자인패턴공부-빌더패턴.csprojResolveAssemblyReference.cache
 C:\Users\KoEunHye\Documents\DesignPattern\디자인패턴공부-빌더패턴\obj\Debug\디자인패턴공부-빌더패턴.exe
 C:\Users\KoEunHye\Documents\DesignPattern\디자인패턴공부-빌더패턴\obj\Debug\디자인패턴공부-빌더패턴.pdb
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\디자인패턴공부-빌더패턴\bin\Debug\디자인패턴공부-빌더패턴.exe.config
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\디자인패턴공부-빌더패턴\bin\Debug\디자인패턴공부-빌더패턴.exe
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\디자인패턴공부-빌더패턴\bin\Debug\디자인패턴공부-빌더패턴.pdb
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\디자인패턴공부-빌더패턴\obj\Debug\디자인패턴공부-빌더패턴.csprojResolveAssemblyReference.cache
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\디자인패턴공부-빌더패턴\obj\Debug\디자인패턴공부-빌더패턴.exe
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\디자인패턴공부-빌더패턴\obj\Debug\디자인패턴공부-빌더패턴.pdb

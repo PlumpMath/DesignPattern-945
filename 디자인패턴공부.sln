@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter패턴", "Adapter패
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "콤포짓패턴", "콤포짓패턴\콤포짓패턴.csproj", "{346035A5-5376-4EDA-8D1B-06D982215683}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "퍼사드패턴", "퍼사드패턴\퍼사드패턴.csproj", "{72B628D7-0BEC-482C-99DE-CA6FF7637057}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{346035A5-5376-4EDA-8D1B-06D982215683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{346035A5-5376-4EDA-8D1B-06D982215683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{346035A5-5376-4EDA-8D1B-06D982215683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B628D7-0BEC-482C-99DE-CA6FF7637057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B628D7-0BEC-482C-99DE-CA6FF7637057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B628D7-0BEC-482C-99DE-CA6FF7637057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B628D7-0BEC-482C-99DE-CA6FF7637057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
