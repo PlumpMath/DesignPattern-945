@@ -16,3 +16,9 @@ C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\이것저�
 C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\이것저것테스트\obj\Debug\이것저것테스트.csprojResolveAssemblyReference.cache
 C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\이것저것테스트\obj\Debug\이것저것테스트.exe
 C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\이것저것테스트\obj\Debug\이것저것테스트.pdb
+C:\Dev\DesignPattern\이것저것테스트\bin\Debug\이것저것테스트.exe.config
+C:\Dev\DesignPattern\이것저것테스트\bin\Debug\이것저것테스트.exe
+C:\Dev\DesignPattern\이것저것테스트\bin\Debug\이것저것테스트.pdb
+C:\Dev\DesignPattern\이것저것테스트\obj\Debug\이것저것테스트.csprojResolveAssemblyReference.cache
+C:\Dev\DesignPattern\이것저것테스트\obj\Debug\이것저것테스트.exe
+C:\Dev\DesignPattern\이것저것테스트\obj\Debug\이것저것테스트.pdb

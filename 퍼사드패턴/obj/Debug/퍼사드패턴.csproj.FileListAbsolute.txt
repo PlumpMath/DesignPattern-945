@@ -3,3 +3,8 @@ C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\퍼사드�
 C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\퍼사드패턴\bin\Debug\퍼사드패턴.pdb
 C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\퍼사드패턴\obj\Debug\퍼사드패턴.exe
 C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\퍼사드패턴\obj\Debug\퍼사드패턴.pdb
+C:\Dev\DesignPattern\퍼사드패턴\bin\Debug\퍼사드패턴.exe.config
+C:\Dev\DesignPattern\퍼사드패턴\bin\Debug\퍼사드패턴.exe
+C:\Dev\DesignPattern\퍼사드패턴\bin\Debug\퍼사드패턴.pdb
+C:\Dev\DesignPattern\퍼사드패턴\obj\Debug\퍼사드패턴.exe
+C:\Dev\DesignPattern\퍼사드패턴\obj\Debug\퍼사드패턴.pdb

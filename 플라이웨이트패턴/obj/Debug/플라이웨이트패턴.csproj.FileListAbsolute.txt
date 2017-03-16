@@ -1,0 +1,6 @@
+C:\Dev\DesignPattern\플라이웨이트패턴\bin\Debug\플라이웨이트패턴.exe.config
+C:\Dev\DesignPattern\플라이웨이트패턴\bin\Debug\플라이웨이트패턴.exe
+C:\Dev\DesignPattern\플라이웨이트패턴\bin\Debug\플라이웨이트패턴.pdb
+C:\Dev\DesignPattern\플라이웨이트패턴\obj\Debug\플라이웨이트패턴.exe
+C:\Dev\DesignPattern\플라이웨이트패턴\obj\Debug\플라이웨이트패턴.pdb
+C:\Dev\DesignPattern\플라이웨이트패턴\obj\Debug\플라이웨이트패턴.csprojResolveAssemblyReference.cache

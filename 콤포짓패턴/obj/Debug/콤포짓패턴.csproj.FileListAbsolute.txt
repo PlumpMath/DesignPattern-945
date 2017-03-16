@@ -13,3 +13,6 @@ C:\Dev\DesignPattern\콤포짓패턴\obj\Debug\콤포짓패턴.pdb
 C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\콤포짓패턴\bin\Debug\콤포짓패턴.exe
 C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\콤포짓패턴\bin\Debug\콤포짓패턴.pdb
 C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\콤포짓패턴\obj\Debug\콤포짓패턴.csprojResolveAssemblyReference.cache
+C:\Dev\DesignPattern\콤포짓패턴\bin\Debug\콤포짓패턴.exe
+C:\Dev\DesignPattern\콤포짓패턴\bin\Debug\콤포짓패턴.pdb
+C:\Dev\DesignPattern\콤포짓패턴\obj\Debug\콤포짓패턴.csprojResolveAssemblyReference.cache

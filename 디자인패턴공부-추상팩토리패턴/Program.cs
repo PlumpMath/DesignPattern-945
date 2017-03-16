@@ -11,9 +11,9 @@ namespace 디자인패턴공부_추상팩토리패턴
         static void Main(string[] args)
         {
 
-            while(true)
+            while (true)
             {
-                 Console.WriteLine();
+                Console.WriteLine();
                 Console.WriteLine("원하시는 상품은 어떤 종류입니까? (라면,햄버거)  나가기 : Q");
                 string product = Console.ReadLine();
                 if (product.Equals("q") || product.Equals("Q")) return;
@@ -33,7 +33,7 @@ namespace 디자인패턴공부_추상팩토리패턴
                     Console.WriteLine("==================");
 
                 }
-                catch (Exception e)
+                catch (Exception)
                 {
                     Console.WriteLine("죄송합니다. 없는 상품입니다.");
                     continue;
