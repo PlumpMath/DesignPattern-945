@@ -18,12 +18,12 @@ namespace 프록시패턴
 
         public void 이미지로드()
         {
-            Console.WriteLine("이미지 파일 로드 완료...");
+            Console.WriteLine("======이미지 파일 로드 완료=========");
         }
 
         public void 텍스트로드()
         {
-            Console.WriteLine("텍스트 파일 로드 완료...");
+            Console.WriteLine("======텍스트 파일 로드 완료=========");
         }
 
         public void 파일로드()
