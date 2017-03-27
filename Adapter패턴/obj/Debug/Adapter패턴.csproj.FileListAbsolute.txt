@@ -13,3 +13,6 @@ C:\Dev\DesignPattern\Adapter패턴\obj\Debug\Adapter패턴.pdb
 C:\Dev\DesignPattern\Adapter패턴\bin\Debug\Adapter패턴.exe.config
 C:\Dev\DesignPattern\Adapter패턴\bin\Debug\Adapter패턴.exe
 C:\Dev\DesignPattern\Adapter패턴\bin\Debug\Adapter패턴.pdb
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\Adapter패턴\bin\Debug\Adapter패턴.exe.config
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\Adapter패턴\bin\Debug\Adapter패턴.exe
+C:\Users\고은혜\Desktop\은혜꺼\프로젝트\Study\DesignPattern\Adapter패턴\bin\Debug\Adapter패턴.pdb

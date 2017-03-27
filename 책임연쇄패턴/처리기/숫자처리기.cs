@@ -15,10 +15,10 @@ namespace 책임연쇄패턴.처리기
         }
         public string 처리하기(string 입력받은값)
         {
-            int 결과 = 0;
+            int 결과;
             if (!int.TryParse(입력받은값, out 결과))
             {
-                다음.처리하기(입력받은값);
+                return 다음.처리하기(입력받은값);
             }
             else
             {
