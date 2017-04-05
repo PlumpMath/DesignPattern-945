@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "프록시패턴", "프록�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "책임연쇄패턴", "책임연쇄패턴\책임연쇄패턴.csproj", "{3CD7092D-7D5C-4927-B3B6-1602EDEE0CD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "커맨드패턴", "..\..\Users\KoEunHye\Documents\Visual Studio 2015\Projects\커맨드패턴\커맨드패턴\커맨드패턴.csproj", "{94763752-6C92-441F-AEA1-8C39BAE5A025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command패턴", "Command패턴\Command패턴.csproj", "{34F08E14-9542-4980-B904-D2477C4B5359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{3CD7092D-7D5C-4927-B3B6-1602EDEE0CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CD7092D-7D5C-4927-B3B6-1602EDEE0CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CD7092D-7D5C-4927-B3B6-1602EDEE0CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94763752-6C92-441F-AEA1-8C39BAE5A025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94763752-6C92-441F-AEA1-8C39BAE5A025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94763752-6C92-441F-AEA1-8C39BAE5A025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94763752-6C92-441F-AEA1-8C39BAE5A025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F08E14-9542-4980-B904-D2477C4B5359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F08E14-9542-4980-B904-D2477C4B5359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F08E14-9542-4980-B904-D2477C4B5359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F08E14-9542-4980-B904-D2477C4B5359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
