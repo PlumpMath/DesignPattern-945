@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "커맨드패턴", "..\..\Us
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command패턴", "Command패턴\Command패턴.csproj", "{34F08E14-9542-4980-B904-D2477C4B5359}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter 패턴", "Interpreter 패턴\Interpreter 패턴.csproj", "{D6801C77-F7F9-4D51-91B3-94209D6557BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{34F08E14-9542-4980-B904-D2477C4B5359}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34F08E14-9542-4980-B904-D2477C4B5359}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34F08E14-9542-4980-B904-D2477C4B5359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6801C77-F7F9-4D51-91B3-94209D6557BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6801C77-F7F9-4D51-91B3-94209D6557BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6801C77-F7F9-4D51-91B3-94209D6557BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6801C77-F7F9-4D51-91B3-94209D6557BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
